@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>map_1813.jpg</filename>
+	<path>D:\Data_map\Thư mục mới\train\map_1813.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>409</ymin>
+			<xmax>551</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>634</ymin>
+			<xmax>736</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>

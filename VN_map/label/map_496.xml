@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>map_496.jpg</filename>
+	<path>D:\Data_map\Thư mục mới\train\map_496.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>651</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>248</ymin>
+			<xmax>350</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>409</ymin>
+			<xmax>482</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>map_641.jpg</filename>
+	<path>D:\Data_map\Thư mục mới\train\map_641.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>689</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>421</ymin>
+			<xmax>670</xmax>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Island</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>893</ymin>
+			<xmax>649</xmax>
+			<ymax>966</ymax>
+		</bndbox>
+	</object>
+</annotation>
